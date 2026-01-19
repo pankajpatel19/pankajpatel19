@@ -66,11 +66,11 @@ A simple hotel management webstite
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajpatel19&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajpatel19&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ A simple hotel management webstite
 ## 🤝 Let’s Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/pankajpatel19  
-🐙 GitHub: https://github.com/your-username
+🐙 GitHub: https://github.com/pankajpatel19
 
 ---
 
