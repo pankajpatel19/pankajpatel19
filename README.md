@@ -40,10 +40,10 @@ I believe in **less boilerplate, more production-grade code**.
 
 ## 📌 Featured Projects
 
-### 🛡️ 1. Auth & RBAC API  
-Secure User Authentication + Roles + Token management  
-🔗 https://github.com/your-username/auth-rbac-system  
-🌍 Live API: https://your-api.onrender.com
+###  1. CoolServices 
+Service Booking Web Application
+🔗 https://github.com/pankajpatel19/CoolServices  
+🌍 Live API: https://cool-services.vercel.app/
 
 ---
 
