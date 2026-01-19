@@ -42,8 +42,8 @@ I believe in **less boilerplate, more production-grade code**.
 
 ###  1. CoolServices 
 Service Booking Web Application
-→ 🔗 Repo : https://github.com/pankajpatel19/CoolServices  
-→ 🌍 Live Demo: https://cool-services.vercel.app/
+- 🔗 Repo : https://github.com/pankajpatel19/CoolServices  
+- 🌍 Live Demo: https://cool-services.vercel.app/
 
 ---
 
@@ -51,15 +51,15 @@ Service Booking Web Application
  
 A production-ready multi-tenant SaaS backend built with Node.js, Express, MongoDB, and Redis, following real-world backend architecture and best practices.
 
-→ 🔗 Repo : https://github.com/pankajpatel19/Tenantify-Multi-Tenant-SaaS-Backend
+- 🔗 Repo : https://github.com/pankajpatel19/Tenantify-Multi-Tenant-SaaS-Backend
 
 
 ---
 
 ###  3. WandarLust
 A simple hotel management webstite
-→ 🔗 Repo : https://github.com/pankajpatel19/WandarLust
-→ 🌍 Live Demo: https://wandar-lust-kappa.vercel.app/listings
+- 🔗 Repo : https://github.com/pankajpatel19/WandarLust
+- 🌍 Live Demo: https://wandar-lust-kappa.vercel.app/listings
 
 ---
 
