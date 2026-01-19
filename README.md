@@ -1,86 +1,88 @@
-# 👋 Hi, I'm Pankaj Patel
+# 👋 Hi, I'm **Pankaj Patel**
 
-🚀 Backend-focused MERN Developer  
-🧠 I build scalable APIs, secure auth systems & real-world projects  
-📍 India
+🌐 Backend-Focused MERN Developer | API Craftsman | Tech - Builder  
+📍 India  
+🔗 LinkedIn: https://www.linkedin.com/in/pankajpatel19
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-- 🔥 Backend-focused MERN developer (Node.js, Express, MongoDB)
-- 🔐 Strong in Authentication & Authorization (JWT, Refresh Tokens, RBAC)
-- ⚡ Interested in performance, scalability & clean architecture
-- 🛠️ Learning by building real-world projects, not just tutorials
-- 🎯 Goal: Become a production-level backend engineer
+I build **clean, scalable backend systems** with secure authentication, solid architecture, and real-world readiness.  
+I believe in **less boilerplate, more production-grade code**.
+
+- 🔥 Backend development with Node.js & Express  
+- 🔐 Authentication & Security (JWT | Refresh Tokens | RBAC)  
+- 📦 REST API design with Filters, Pagination & Error handling  
+- ☁️ Deployment on Render / Vercel with MongoDB Atlas  
+- 🛠️ Always polishing code quality & API performance
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Backend
-- Node.js
-- Express.js
-- MongoDB (Mongoose)
-- REST APIs
-- JWT & Refresh Token Auth
-- Redis (Caching)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
 
 ### 🎨 Frontend
-- React.js
-- Next.js
-- Tailwind CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-### ⚙️ Tools & DevOps
-- Git & GitHub
-- Postman
-- MongoDB Atlas
-- Render / Railway / Vercel
-- Cloudinary
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔐 Auth & Security System
-- JWT + Refresh Token Authentication
-- Role Based Access Control (Admin/User)
-- Secure password hashing
-- Clean folder structure  
-🔗 Repo: https://github.com/your-username/auth-system  
-🌍 Live: https://your-api.onrender.com
+### 🛡️ 1. Auth & RBAC API  
+Secure User Authentication + Roles + Token management  
+🔗 https://github.com/your-username/auth-rbac-system  
+🌍 Live API: https://your-api.onrender.com
 
 ---
 
-### 📦 CRUD API with Pagination & Filters
-- Search, filter & sort APIs
-- Centralized error handling
-- Scalable architecture  
-🔗 Repo: https://github.com/your-username/crud-api  
+### 📦 2. Advanced CRUD API  
+Search | Filters | Sorting | Pagination | Error Handling  
+🔗 https://github.com/your-username/crud-api
 
 ---
 
-### ☁️ File Upload Service
-- Multer + Cloudinary
-- Image validation
-- Secure upload APIs  
-🔗 Repo: https://github.com/your-username/file-upload  
+### ☁️ 3. File Upload Service  
+Multer | Cloudinary image storage with validation  
+🔗 https://github.com/your-username/file-upload-cloudinary
+
+---
+
+### 🌐 4. Full Stack MERN App  
+React / Next frontend + Node backend + Auth + CRUD  
+🔗 https://github.com/your-username/fullstack-mern  
+🌍 Live: https://yourapp.vercel.app
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🧑‍💻 GitHub: https://github.com/your-username
+🔗 LinkedIn: https://www.linkedin.com/in/pankajpatel19  
+🐙 GitHub: https://github.com/your-username
 
 ---
 
-⭐ *I believe in learning by building. Check out my repositories and feel free to connect!*
+⭐ *Thanks for visiting! I build backend systems that don’t just work; they endure.*
