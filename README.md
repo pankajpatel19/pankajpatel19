@@ -54,9 +54,10 @@ A production-ready multi-tenant SaaS backend built with Node.js, Express, MongoD
 
 ---
 
-### ☁️ 3. File Upload Service  
+###  3. WandarLust
 A simple hotel management webstite
 🔗 https://github.com/pankajpatel19/WandarLust
+🌍 Live API: https://wandar-lust-kappa.vercel.app/listings
 
 ---
 
