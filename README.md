@@ -60,21 +60,12 @@ A full-stack RAG application allowing developers to chat with codebase repositor
 
 ---
 
-### 🏨 4. WandarLust
-A hotel management web application featuring interactive property listings, user authentication, and full CRUD reservation management.
-- 🔗 **Repo**: https://github.com/pankajpatel19/WandarLust  
-- 🌍 **Live Demo**: https://wandar-lust-kappa.vercel.app/listings
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajpatel19&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajpatel19&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pankajpatel19&show_icons=true&theme=tokyonight" alt="Pankaj Patel's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajpatel19&theme=tokyonight" alt="Pankaj Patel's GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pankajpatel19&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
